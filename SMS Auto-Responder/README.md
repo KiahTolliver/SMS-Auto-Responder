@@ -55,7 +55,7 @@ Assuming you have a [Telnyx account](https://telnyx.com/sign-up) and have set up
 
 Give the profile a name in the **Profile Name** field. This example uses the name "SMS Auto Responder". 
 
-![Add new profile](SMS Auto-Responder/Images/add_profile.PNG)
+![Add new profile](SMS Auto-Responder/Images/add_profile.png)
 
 Then, enter the application url from the previous step in the **Send a webhook to this URL** field, adding `/messaging/inbound` to the end of it. This is done because the application receives inbound SMS webhooks through this endpoint, as defined in MessagingController.cs. The complete url should look something like `https://{your-url}.ngrok.io/messaging/inbound` if you are using ngrok.
 
