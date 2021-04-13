@@ -55,13 +55,13 @@ Assuming you have a [Telnyx account](https://telnyx.com/sign-up) and have set up
 
 Give the profile a name in the **Profile Name** field. This example uses the name "SMS Auto Responder". 
 
-![Add new profile](images/add_profile.png)
+![Add new profile](https://github.com/KiahTolliver/SMS-Auto-Responder/blob/main/SMS%20Auto-Responder/Images/add_profile.PNG)
 
 Then, enter the application url from the previous step in the **Send a webhook to this URL** field, adding `/messaging/inbound` to the end of it. This is done because the application receives inbound SMS webhooks through this endpoint, as defined in MessagingController.cs. The complete url should look something like `https://{your-url}.ngrok.io/messaging/inbound` if you are using ngrok.
 
 Finally, navigate to the [Numbers Portal](https://portal.telnyx.com/#/app/numbers/my-numbers) and assign the previously created messaging profile to your Telnyx number.
 
-![Attach messaging profile to phone number](images/set_profile.png)
+![Attach messaging profile to phone number](https://github.com/KiahTolliver/SMS-Auto-Responder/blob/main/SMS%20Auto-Responder/Images/set_profile.PNG)
 
 This example attaches the "SMS Auto Responder" messaging profile to the number +1-800-000-0000.
 
