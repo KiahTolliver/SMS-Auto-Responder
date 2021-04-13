@@ -1,0 +1,23 @@
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\bin\Debug\netcoreapp3.1\SMS Auto-Responder.exe
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\bin\Debug\netcoreapp3.1\SMS Auto-Responder.deps.json
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\bin\Debug\netcoreapp3.1\SMS Auto-Responder.runtimeconfig.json
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\bin\Debug\netcoreapp3.1\SMS Auto-Responder.runtimeconfig.dev.json
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\bin\Debug\netcoreapp3.1\SMS Auto-Responder.dll
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\bin\Debug\netcoreapp3.1\SMS Auto-Responder.pdb
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\bin\Debug\netcoreapp3.1\dotenv.net.dll
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\bin\Debug\netcoreapp3.1\Rebex.Ed25519.dll
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\bin\Debug\netcoreapp3.1\Telnyx.net.dll
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\obj\Debug\netcoreapp3.1\SMS Auto-Responder.AssemblyInfoInputs.cache
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\obj\Debug\netcoreapp3.1\SMS Auto-Responder.AssemblyInfo.cs
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\obj\Debug\netcoreapp3.1\SMS Auto-Responder.csproj.CoreCompileInputs.cache
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\obj\Debug\netcoreapp3.1\SMS Auto-Responder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\obj\Debug\netcoreapp3.1\SMS Auto-Responder.RazorTargetAssemblyInfo.cache
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\obj\Debug\netcoreapp3.1\SMS Auto-Responder.csproj.CopyComplete
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\obj\Debug\netcoreapp3.1\SMS Auto-Responder.dll
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\obj\Debug\netcoreapp3.1\SMS Auto-Responder.pdb
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\obj\Debug\netcoreapp3.1\SMS Auto-Responder.genruntimeconfig.cache
+C:\Users\ktolliver\source\repos\SMS Auto-Responder\SMS Auto-Responder\obj\Debug\netcoreapp3.1\SMS Auto-Responder.csprojAssemblyReference.cache
